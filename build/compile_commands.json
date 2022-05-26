@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/chengchengzhao/Projects/learnog/build",
+  "command": "/usr/bin/clang++ -I/opt/homebrew/Cellar/glfw/3.3.7/include -I/opt/homebrew/Cellar/glad/include -I/Users/chengchengzhao/Projects/learnog -I/Users/chengchengzhao/Projects/learnog/include -I/Users/chengchengzhao/Projects/learnog/glad.c -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/learnog.dir/main.cpp.o -c /Users/chengchengzhao/Projects/learnog/main.cpp",
+  "file": "/Users/chengchengzhao/Projects/learnog/main.cpp"
+},
+{
+  "directory": "/Users/chengchengzhao/Projects/learnog/build",
+  "command": "/usr/bin/clang -I/opt/homebrew/Cellar/glfw/3.3.7/include -I/opt/homebrew/Cellar/glad/include -I/Users/chengchengzhao/Projects/learnog -I/Users/chengchengzhao/Projects/learnog/include -I/Users/chengchengzhao/Projects/learnog/glad.c -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -o CMakeFiles/learnog.dir/glad.c.o -c /Users/chengchengzhao/Projects/learnog/glad.c",
+  "file": "/Users/chengchengzhao/Projects/learnog/glad.c"
+}
+]

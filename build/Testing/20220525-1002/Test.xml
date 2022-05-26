@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20220525-1002-Experimental"
+	Name="chengchengdeMacBook-Pro.local"
+	Generator="ctest-3.23.1"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="13.1.6.13160021"
+	OSName="macOS"
+	Hostname="chengchengdeMacBook-Pro.local"
+	OSRelease="12.3.1"
+	OSVersion="21E258"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="1024"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>May 25 18:02 CST</StartDateTime>
+		<StartTestTime>1653472955</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 25 18:02 CST</EndDateTime>
+		<EndTestTime>1653472955</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
